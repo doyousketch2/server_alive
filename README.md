@@ -17,8 +17,7 @@ get a popup once your ping gets through
 - [x] gtk+  ~~  again, easy to install in Linux.  
       `sudo apt-get install libgtk-3-dev`  
        win users might have to jump through a couple hoops:  
-       https://www.gtk.org/download/windows.php  
-       https://pygobject.readthedocs.io/en/latest  
+       https://pygobject.readthedocs.io/en/latest/getting_started.html  
 
 ![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
 
