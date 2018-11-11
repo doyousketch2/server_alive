@@ -8,6 +8,7 @@ get a popup once your ping gets through
 - [x] Python 2.7  
 - [x] fping.  it's easy enough to install in Linux.  
       `sudo apt-get install fping`  
-      Windows users would have to find a precompiled version.  
+      Win users can find a link to download a compiled binary for windows here:  
+      https://universallp.wordpress.com/2017/02/22/fping-on-windows  
 
 ![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
