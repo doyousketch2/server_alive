@@ -5,13 +5,16 @@
 get a popup once your ping gets through  
 
 **Requirements:**  
-- [x] Python 2.7  
-- [x] fping.  it's easy enough to install in Linux.  
+- [x] Python 2.7  ~~  comes with Linux
+      win users will have to install:  
+      https://www.python.org/download/releases/2.7  
+
+- [x] fping ~~  it's easy enough to install in Linux.  
       `sudo apt-get install fping`  
       Win users can find a link to download a compiled binary for windows here:  
       https://universallp.wordpress.com/2017/02/22/fping-on-windows  
       
-- [x] gtk+.  again, easy to install in Linux.  
+- [x] gtk+  ~~  again, easy to install in Linux.  
       `sudo apt-get install libgtk-3-dev`  
        win users might have to jump through a couple hoops:  
        https://www.gtk.org/download/windows.php  
