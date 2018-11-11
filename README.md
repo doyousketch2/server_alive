@@ -15,7 +15,7 @@ get a popup once your ping gets through
       https://universallp.wordpress.com/2017/02/22/fping-on-windows  
       
 - [x] gtk+  ~~  again, easy to install in Linux.  
-      `sudo apt-get install libgtk-3-dev`  
+      `##  sudo apt-get install libgtk-3-dev python-gi-cairo`  
        win users might have to jump through a couple hoops:  
        https://pygobject.readthedocs.io/en/latest/getting_started.html  
 
