@@ -9,7 +9,7 @@
 
 """ required  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
 
-##  sudo apt-get install fping
+##  sudo apt-get install fping libgtk-3-dev
 
 """  libs  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
 
