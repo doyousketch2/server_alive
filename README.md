@@ -10,5 +10,10 @@ get a popup once your ping gets through
       `sudo apt-get install fping`  
       Win users can find a link to download a compiled binary for windows here:  
       https://universallp.wordpress.com/2017/02/22/fping-on-windows  
+      
+- [x] gtk+.  again, easy to install in Linux.  
+      `sudo apt-get install libgtk-3-dev`  
+       win users might have to jump through a couple hoops:  
+       https://www.gtk.org/download/windows.php  
 
 ![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
