@@ -1,3 +1,6 @@
+
+[![OpenSource](https://img.shields.io/badge/Open-Source-orange.svg)](https://github.com/doyousketch2)  [![PythonVersions](https://img.shields.io/badge/Python-2.7-blue.svg)](https://www.python.org/)  [![License](https://img.shields.io/badge/license-GPL--v3-lightgrey.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)  [![Git.io](https://img.shields.io/badge/Git.io-fptgb-233139.svg)](https://git.io/fptgb)  
+
 # server_alive.py  
 get a popup once your ping gets through  
 
@@ -6,3 +9,5 @@ get a popup once your ping gets through
 - [x] fping.  it's easy enough to install in Linux.  
       `sudo apt-get install fping`  
       Windows users would have to find a precompiled version.  
+
+![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
