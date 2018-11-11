@@ -5,7 +5,7 @@
 get a popup once your ping gets through  
 
 **Requirements:**  
-- [x] Python 2.7  ~~  comes with Linux
+- [x] Python 2.7  ~~  comes with Linux  
       win users will have to install:  
       https://www.python.org/download/releases/2.7  
 
