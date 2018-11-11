@@ -22,7 +22,7 @@ get a popup once your ping gets through
 ![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
 
 the server and time between pings is hardcoded in the script,  
-because I wrote it to seve a single purpose.  
+because I wrote it to serve a single purpose.  
 
 if you wish to change these, just modify these two lines in the script:  
 `server  = 'hometownserver.com'`  
