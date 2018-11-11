@@ -19,11 +19,11 @@ get a popup once your ping gets through
        win users might have to jump through a couple hoops:  
        https://www.gtk.org/download/windows.php  
 
+![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
+
 the server and time between pings is hardcoded in the script,  
 because I wrote it to seve a single purpose.  
 
 if you wish to change these, just modify these two lines in the script:  
 `server  = 'hometownserver.com'`  
 `minutes_between_ping  = 30`  
-
-![image](https://raw.githubusercontent.com/doyousketch2/server_alive/master/Screenshot.png)  
